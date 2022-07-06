@@ -2,7 +2,7 @@
   "name": "feedback-app",
   "version": "0.1.0",
   "private": true,
-  "proxy": "tourmaline-taiyaki-20f7f52022",
+  "proxy": "tourmaline-taiyaki-20f7f52022.netlify.app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^13.0.0",
